@@ -1,0 +1,2 @@
+# usefulldapqueries
+useful LDAP queries
